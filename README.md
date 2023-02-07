@@ -31,5 +31,7 @@
 Решила развивать карьеру в этом направлении, т.к. привлекает возможность решения интересных задач, а также возможность удаленной работы.
 
 #### Мои контакты:
+
 ribnova_tn@mail.ru
+
 [моё резюме](https://docs.google.com/document/d/14ZYDGTXfDieYCaC9svPZnsqIuKvcWT_GsDpjY5NzQ-s/edit?usp=sharing)
