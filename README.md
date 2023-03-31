@@ -6,6 +6,7 @@
 * Программирование на Java (базовый уровень)
 * Работа с GIT
 * Работа с шаблонами проектирования
+* Spring Framework
 
 #### Инструменты:
 * Java
@@ -14,6 +15,7 @@
 * Gradle
 * Maven 
 * Stream API
+* Spring Boot
 
 #### Выполненные проекты:
 [Проект 1: “Поисковая система”](https://github.com/Tanja7/search_engine_diplom.git)
